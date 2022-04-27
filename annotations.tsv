@@ -113,3 +113,5 @@ ai.facebook.com/*	_include_
 lilianweng.github.io	_include_
 *.blackhat.com	_include_
 *.defcon.org	_include_
+*.redhat.com	_include_
+*.debian.org	_include_
