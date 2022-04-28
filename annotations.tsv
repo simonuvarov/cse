@@ -145,3 +145,4 @@ page.mi.fu-berlin.de/rojas/neural/*	_include_	ML
 *.outpost24.com/*	_exclude_	low quality website
 cure53.de/*	_include_
 explainshell.com/*	_include_
+*.w3.org/*	_include_
