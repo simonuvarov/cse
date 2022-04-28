@@ -103,7 +103,7 @@ ai.facebook.com/*	_include_
 *.reactjs.org	_include_
 *.arxiv.org	_include_
 *.wolframalpha.com	_include_
-*.edu	_include_
+*.edu	_include_	Universities
 *.libretexts.org	_include_
 *.cdc.gov	_include_
 *.python.org	_include_
@@ -116,3 +116,8 @@ lilianweng.github.io	_include_
 *.redhat.com	_include_
 *.debian.org	_include_
 *.vmware.com	_include_
+*.ourworldindata.org	_include_
+*.observablehq.com	_include_
+explained.ai	_include_
+*.typography.com	_include_
+www.itl.nist.gov	_include_	Statistics
