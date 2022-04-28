@@ -123,3 +123,4 @@ explained.ai/*	_include_
 www.itl.nist.gov/div898/handbook/*	_include_	Statistics
 page.mi.fu-berlin.de/rojas/neural/*	_include_	ML
 *.linkedin.com/*	_exclude_
+*.ieee.org/*	_include_
