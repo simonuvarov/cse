@@ -146,3 +146,5 @@ page.mi.fu-berlin.de/rojas/neural/*	_include_	ML
 cure53.de/*	_include_
 explainshell.com/*	_include_
 *.w3.org/*	_include_
+plotly.com/*	_include_
+matplotlib.org/*	_include_
