@@ -124,3 +124,22 @@ www.itl.nist.gov/div898/handbook/*	_include_	Statistics
 page.mi.fu-berlin.de/rojas/neural/*	_include_	ML
 *.linkedin.com/*	_exclude_
 *.ieee.org/*	_include_
+*.freecodecamp.org/*	_exclude_	low quality website
+*.careerkarma.com/*	_exclude_	low quality website
+*.guru99.com/*	_exclude_	low quality website
+*.programiz.com/*	_exclude_	low quality website
+*.realpython.com/*	_exclude_	low quality website
+*.javatpoint.com/*	_exclude_	low quality website
+*.baeldung.com/*	_exclude_	low quality website
+*.edureka.co/*	_exclude_	low quality website
+*.simplilearn.com/*	_exclude_	low quality website
+*.favtutor.com/*	_exclude_	low quality website
+*.techiedelight.com/*	_exclude_	low quality website
+*.tutorialspoint.com/*	_exclude_	low quality website
+*.linuxize.com/*	_exclude_	low quality website
+*.ryanstutorials.net/*	_exclude_	low quality website
+*.devqa.io/*	_exclude_	low quality website
+*.opensource.com/*	_exclude_	low quality website
+*.cyberciti.biz/*	_exclude_	low quality website
+*.comparitech.com/*	_exclude_	low quality website
+*.outpost24.com/*	_exclude_	low quality website
