@@ -119,7 +119,6 @@ lilianweng.github.io/*	_include_
 *.ourworldindata.org/*	_include_
 *.observablehq.com/*	_include_
 explained.ai/*	_include_
-*.typography.com/*	_include_
 www.itl.nist.gov/div898/handbook/*	_include_	Statistics
 page.mi.fu-berlin.de/rojas/neural/*	_include_	ML
 *.linkedin.com/*	_exclude_
@@ -148,3 +147,7 @@ explainshell.com/*	_include_
 *.w3.org/*	_include_
 plotly.com/*	_include_
 matplotlib.org/*	_include_
+*.klim.co.nz/*	_include_
+*.paratype.com/*	_include_
+*.monotype.com/*	_include_
+*.typography.com/*	_include_
