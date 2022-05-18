@@ -19,7 +19,7 @@ googleprojectzero.blogspot.com/*	_include_
 *.learnxinyminutes.com/*	_include_
 *.letterboxd.com/*	_include_
 *.gutenberg.org/*	_include_
-*.amazon.com/*	_include_
+docs.aws.amazon.com/*	_include_
 *.nginx.com/*	_include_	Official website
 *.bugcrowd.com/*	_include_
 *.askubuntu.com/*	_include_
@@ -34,7 +34,6 @@ scholar.google.com/*	_include_
 *.nngroup.com/*	_include_
 *.docker.com/*	_include_
 *.mozilla.org/*	_include_
-*.youtube.com/*	_include_
 *.nist.gov/*	_include_
 *.mitre.org/*	_include_
 *.owasp.org/*	_include_
