@@ -8,9 +8,7 @@ URL	Label	Comment
 *.nature.com/*	_include_
 *.norvig.com/*	_include_
 *.incompleteideas.net/*	_include_
-*.w3schools.com/*	_exclude_
 *.wikipedia.org/*	_include_
-*.geeksforgeeks.org/*	_exclude_
 pubmed.ncbi.nlm.nih.gov/*	_include_
 *.trendmicro.com/*	_include_
 *.ptsecurity.com/*	_include_
@@ -78,8 +76,6 @@ ai.facebook.com/*	_include_
 *.quora.com/*	_include_
 *.github.com/*	_include_
 *.openai.com/*	_include_
-*.towardsdatascience.com/*	_exclude_
-*.medium.com/*	_exclude_
 *.readthedocs.org/*	_include_
 *.pydata.org/*	_include_
 *.deepmind.com/*	_include_
@@ -120,27 +116,7 @@ lilianweng.github.io/*	_include_
 explained.ai/*	_include_
 www.itl.nist.gov/div898/handbook/*	_include_	Statistics
 page.mi.fu-berlin.de/rojas/neural/*	_include_	ML
-*.linkedin.com/*	_exclude_
 *.ieee.org/*	_include_
-*.freecodecamp.org/*	_exclude_	low quality website
-*.careerkarma.com/*	_exclude_	low quality website
-*.guru99.com/*	_exclude_	low quality website
-*.programiz.com/*	_exclude_	low quality website
-*.realpython.com/*	_exclude_	low quality website
-*.javatpoint.com/*	_exclude_	low quality website
-*.baeldung.com/*	_exclude_	low quality website
-*.edureka.co/*	_exclude_	low quality website
-*.simplilearn.com/*	_exclude_	low quality website
-*.favtutor.com/*	_exclude_	low quality website
-*.techiedelight.com/*	_exclude_	low quality website
-*.tutorialspoint.com/*	_exclude_	low quality website
-*.linuxize.com/*	_exclude_	low quality website
-*.ryanstutorials.net/*	_exclude_	low quality website
-*.devqa.io/*	_exclude_	low quality website
-*.opensource.com/*	_exclude_	low quality website
-*.cyberciti.biz/*	_exclude_	low quality website
-*.comparitech.com/*	_exclude_	low quality website
-*.outpost24.com/*	_exclude_	low quality website
 cure53.de/*	_include_
 explainshell.com/*	_include_
 *.w3.org/*	_include_
